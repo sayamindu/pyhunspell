@@ -11,4 +11,7 @@ main = Extension(	'hunspell',
 setup(	name = "hunspell",
 	version = "0.1",
 	description = "Module for the Hunspell spellchecker engine",
+    author="Sayamindu Dasgupta",
+    author_email="sayamindu@gmail.com",
+    url="http://code.google.com/p/pyhunspell",
 	ext_modules = [main])
