@@ -1,12 +1,11 @@
 #summary One-sentence summary of this page.
 #labels Featured,Phase-Implementation
 
-= Introduction =
+= Usage =
 
 This page covers the basic functionalities of the extension.
 
-
-= Basic spell checking =
+== Basic spell checking ==
 
 {{{
 >>> import hunspell
@@ -20,7 +19,7 @@ True
 >>>
 }}}
 
-= More fun =
+== More fun ==
 
 {{{
 >>> import hunspell
